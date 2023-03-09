@@ -2,14 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a74dc864-30a6-4506-8700-72a4e9853461" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LongestCommonPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MergeSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MergeTwoSortedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MoveZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicatesOrderedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RemoveElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RomanNumeralsToDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ValidParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayIntersection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTreeInorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTreeMaxDepth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BuyAndSellStock1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClimbStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoinSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContainerWithMostWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContainsDuplicated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DeleteListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExcelColToNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FibonacciSeq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GenerateParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KthSmallestElemInBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LetterCombinationWithPhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedListCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedListIntersection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestIncreasingSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestPalindromeSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestSubstringWithoutRepeatingChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LowestCommonAncestorBinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LowestCommonAncestorInBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaximumProductSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyAtoiStringToNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberOf1Bit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PalindromeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PascalsTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PowerOfThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveNthNodeFromEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RotateImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SearchInSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SingleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortedArrayToBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sqrtx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SymmetricTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trifibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ValidAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ValidPalindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,26 +81,41 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;//wsl$/Ubuntu/home/fpetrikovich/programming/metabase-coinset/metabase-coinset/pom.xml&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LongestCommonPrefix">
-    <configuration name="KMP_String_Matching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KMP_String_Matching" />
+  <component name="RunManager" selected="Application.TicTacToe">
+    <configuration name="CoinSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CoinSet" />
       <module name="InterviewProblems" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LongestCommonPrefix" />
+    <configuration name="Florida" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Florida" />
       <module name="InterviewProblems" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumTwoNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumTwoNums" />
+    <configuration name="MetabaseFindSubsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MetabaseFindSubsets" />
+      <module name="InterviewProblems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SQLParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SQLParser" />
+      <module name="InterviewProblems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TicTacToe" />
       <module name="InterviewProblems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,9 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LongestCommonPrefix" />
-        <item itemvalue="Application.SumTwoNums" />
-        <item itemvalue="Application.KMP_String_Matching" />
+        <item itemvalue="Application.TicTacToe" />
+        <item itemvalue="Application.SQLParser" />
+        <item itemvalue="Application.MetabaseFindSubsets" />
+        <item itemvalue="Application.CoinSet" />
+        <item itemvalue="Application.Florida" />
       </list>
     </recent_temporary>
   </component>
@@ -84,7 +141,21 @@
       <updated>1674597549597</updated>
       <workItem from="1674597551315" duration="4062000" />
       <workItem from="1674658210812" duration="5113000" />
-      <workItem from="1674683894430" duration="1660000" />
+      <workItem from="1674683894430" duration="2290000" />
+      <workItem from="1674741820926" duration="7360000" />
+      <workItem from="1674857063438" duration="2628000" />
+      <workItem from="1674917148600" duration="8345000" />
+      <workItem from="1675109676557" duration="3033000" />
+      <workItem from="1675194591727" duration="541000" />
+      <workItem from="1675395429980" duration="59000" />
+      <workItem from="1675395649860" duration="11000" />
+      <workItem from="1676749418849" duration="1499000" />
+      <workItem from="1677024496677" duration="1495000" />
+      <workItem from="1677072645007" duration="2771000" />
+      <workItem from="1677526425749" duration="9099000" />
+      <workItem from="1678283791164" duration="610000" />
+      <workItem from="1678306240228" duration="3668000" />
+      <workItem from="1678392206039" duration="6558000" />
     </task>
     <servers />
   </component>
